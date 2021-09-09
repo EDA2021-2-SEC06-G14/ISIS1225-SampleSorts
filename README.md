@@ -27,4 +27,16 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
+    Integrante 1:
+         Nombre: Diego Alejandro González Vargas
+         E-mail: da.gonzalezv1@uniandes.edu.co
+         Código: 202110240
+
+    Integrante 2:
+        Nombre: Sebastian Guerrero Rios
+        Correo: s.guerrero3@uniandes.edu.co
+        Codigo: 202021249
+
+        
+
 
